@@ -1,2 +1,2 @@
-jekyll-include-cache
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+name: My Site
+theme: minima
